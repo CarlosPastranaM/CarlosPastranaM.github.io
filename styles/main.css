@@ -23,11 +23,11 @@ body.body-page {
 /* My Styles
 /*********************************/
 :root {
-  --mightygray: #556270;
+  --mightygray: #1f5f79;
   --pacifica: #4ecdc4;
   --applechic: #c7f464;
   --cheerypink: #ff6b6b;
-  --grandmapink: #c44d58;
+  --grandmapink: #3fad9b;
 
   --schoolbell: "Schoolbell", cursive;
   --quatrocen: "Quattrocento Sans", sans-serif;
@@ -106,7 +106,7 @@ a:hover {
 }
 
 .hero-princ-content.text .title::after {
-  content: "(MistyBlunch)";
+  content: "(Sopas)";
   font-size: 25px;
   font-family: var(--schoolbell);
 }

@@ -1,7 +1,7 @@
 # Carlos Pastrana's portafolio
 
-# Credits to Misty Blunch:
-# https://github.com/MistyBlunch
+##### Credits to Misty Blunch:
+##### https://github.com/MistyBlunch
 
 
 ##### Simple portfolio made with HTML5, CSS, Bulma Framework and JS.

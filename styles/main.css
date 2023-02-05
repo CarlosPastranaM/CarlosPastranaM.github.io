@@ -533,6 +533,10 @@ a:hover {
   }
 }
 
+.subtitle {
+  text-align:justify;
+}
+
 @media (max-width: 601px) {
   /* Set titles 
   /*********************************/
@@ -559,6 +563,16 @@ a:hover {
   /*********************************/
   .column.skill .img img {
     max-width: 50px;
+  }
+
+  .img>img {
+    height: 44px;
+    width: 44px;
+  }
+
+  .imgSQL {
+    height: 70px !important;
+    max-width: 70px !important;
   }
 
   /* Projects 
